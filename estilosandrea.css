@@ -1,0 +1,109 @@
+body{background-color: rgb(58, 90, 91);}
+
+div#es
+{height: 290px;
+    padding: 10px;
+    width: 600px;
+    float:left;
+    margin: 3px;
+    border-color: rgb(255, 199, 17);
+    border-style: solid;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+color:white;
+}
+    
+    h1
+    {background-color: aliceblue;
+    color:red;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+    p
+    {text-align: justify;
+     font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+color: rgb(255, 255, 255);}
+
+
+h4 
+{text-align: center;
+color: rgb(255, 255, 255);
+font-family: Arial, Helvetica, sans-serif;
+}
+
+div#tipo
+{background-color: #E61F13;
+    height: 430px;
+    border-style: solid;
+    border-color: white;
+    width: 620px;
+    float:left;
+    margin: 6px;
+    }
+    h4,h5{color:white;
+    font-size: 24px;
+font-family: Arial, Helvetica, sans-serif;}
+    h3
+    {text-align: center;
+    color:white;
+font-size: 29px;
+font-family: Arial, Helvetica, sans-serif;
+border-style: solid;
+border-color: rgb(255, 0, 119);
+width: 700px;
+float: center;}
+
+div#comprar
+{margin: 10px;
+    width: 630px;
+    height: 200px;
+    background-color:rgb(255, 211, 16);
+    float: left;
+    margin-top: auto;
+    padding:55px;
+    color: rgb(0, 0, 0);
+    border-style: solid;
+    border-color: rgb(255, 255, 255);font-size: 17px;}
+
+    div#catalagos
+{height: 440px;
+ width: 759px;
+ float: left;
+    border-color: rgb(255, 199, 17);
+    border-style: solid;
+    float: right;
+}
+
+     h2
+     {background-color: aliceblue;
+    color:red;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin: 2px;
+}
+
+li
+{font-family: Arial, Helvetica, sans-serif;
+text-align:start}
+
+div#conta,form,a
+{text-align: justify;
+color:rgb(255, 227, 12);
+font-size: 20px;
+font-family:monospace;
+float:right;
+}
+
+div#mapa
+{float: left;
+}
+
+div#contacto
+{background-color: khaki;
+    width: 250px;
+    height: 200px;
+    font-family: cursive;
+    text-align: center;
+}

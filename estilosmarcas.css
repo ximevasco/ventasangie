@@ -1,0 +1,76 @@
+body{background-color: rgb(234, 120, 74);}
+
+div#es
+{text-align: center;
+background-color:#d9e476;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+ border: rgb(234, 120, 74) 5px dotted;
+}
+
+div#vikkang
+{background-color: #f6cfd3;
+margin: 8px;
+float: left;
+font-family:Arial, Helvetica, sans-serif ;
+text-align: center;
+width: 400px;
+height: 890px;
+font-size: 20px;}
+h2{background-color: cornsilk;
+margin: 10px;}
+
+div#comprar
+{text-align: center;
+font-size: 20px;}
+
+li{text-align: center;
+    list-style-type: square;
+}
+
+table,td,th,tr{border-style: solid;
+border-color:rgb(37, 62, 146);
+font-family: Arial, Helvetica, sans-serif;
+border-width: 3px;
+}
+
+div#variedad
+{text-align: center; 
+color:white;
+font-size: 17px;}
+h3
+{font-family:monospace;
+font-size: 24px;}
+
+div#formulario
+{background-color: #d9e476;
+font-family: Arial, Helvetica, sans-serif;
+margin: 10px;width: 900px;
+padding:30px;
+float: right;
+color: rgb(235, 26, 124);
+}
+h4{color:white;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 29px;
+}
+div#mapa
+{float:left}
+
+div#fon
+{float: right;
+border-style:solid;
+border-color: rgb(255, 196, 224);
+border-width: 5px;
+}
+table#venta
+{color:rgb(243, 239, 240);
+}
+
+div#gan
+{float:right;}
+
+div#grax
+{float:right;}
+
+
